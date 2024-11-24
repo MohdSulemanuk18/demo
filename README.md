@@ -1,4 +1,4 @@
 # demo
 This is my first repo
 <br>
-Auhtor:Mohd Suleman
+Auhtor:Mohd Suleman(Mern Developer)
